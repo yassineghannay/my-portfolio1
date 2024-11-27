@@ -1,3 +1,6 @@
+
+"use client";
+
 import Header from './components/Header'; // Path should match your folder structure
 import Section from './components/Section';
 import ProjectCard from './components/ProjectCard';
